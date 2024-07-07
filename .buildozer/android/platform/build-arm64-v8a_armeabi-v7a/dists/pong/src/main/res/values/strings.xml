@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pong</string>
+    <string name="private_version">888d2af36516f4e0e40425435f4e2325f9588be2</string>
+    <string name="presplash_color">yellow</string>
+    <string name="urlScheme">kivy</string>
+</resources>
